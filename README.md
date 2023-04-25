@@ -10,7 +10,6 @@
 
 [![Gerson Videira GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gersonvideira&show_icons=true&theme=dracula)](https://github.com/gersonvideira/github-readme-stats#gh-dark-mode-only)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gersonvideira&layout=compact)](https://github.com/gersonvideira/github-readme-stats)
 
 ## Tecnologias que uso
